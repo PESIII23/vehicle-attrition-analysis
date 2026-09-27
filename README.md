@@ -8,7 +8,7 @@ Analyzing and predicting vehicle attrition patterns to generate insights for veh
 
 ## LinkedIn
 
-- [Intro]()
+- [Intro](https://www.linkedin.com/feed/update/urn:li:activity:7508624093123108864/)
 - [Mid-Semester]()
 - [Final]()
 
