@@ -1,0 +1,17 @@
+# Environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# IDE (PyCharm data source config includes the Snowflake account)
+.idea/
+
+# Data: never commit Hagerty or S&P Global data
+data/
+*.csv
+*.parquet
+*.gz
+*.xlsx
+
+.DS_Store

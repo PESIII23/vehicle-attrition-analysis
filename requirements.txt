@@ -1,0 +1,14 @@
+# Snowflake
+snowflake-snowpark-python[pandas]==1.55.2
+snowflake-connector-python[secure-local-storage]==4.8.0
+
+# Analysis
+pandas==2.3.3
+numpy==2.5.4
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Notebook
+jupyter==1.1.1
+ipykernel==7.4.0
+nbstripout==0.9.1
